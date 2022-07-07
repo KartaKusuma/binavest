@@ -1,0 +1,38 @@
+html {
+    scroll-behavior: smooth;
+}
+.text-merah {
+    color: #cc4964;
+}
+
+.text-kuning {
+    color: #e8e352;
+}
+
+.text-hijau {
+    color: #33af61;
+}
+
+.text-biru {
+    color: #4479c4;
+}
+
+.bg-merah {
+    background: #cc4964;
+}
+
+.bg-kuning {
+    background: #e8e352;
+}
+
+.bg-hijau {
+    background: #33af61;
+}
+
+.bg-biru {
+    background: #4479c4;
+}
+
+.justify {
+    text-align: justify;
+}
