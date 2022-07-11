@@ -246,7 +246,7 @@ function getValue(value) {
 
 //result render
 function resultRender() {
-    let kesimpulan = "Anda termasuk investor yang beritpe ";
+    let kesimpulan = "Anda termasuk investor yang bertipe ";
     let rekomendasi = ", direkomendasikan untuk memilih instrumen ";
     let tipe = "";
     let instrumen = "";
